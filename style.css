@@ -48,3 +48,17 @@ p {
   color: white;
   cursor: pointer;
 }
+.login-button {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 24px;
+  background-color: #b30059;
+  color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+.login-button:hover {
+  background-color: #ff66a3;
+}
